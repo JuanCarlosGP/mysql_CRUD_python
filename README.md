@@ -22,7 +22,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ```sh
   git clone https://github.com/JuanCarlosGP/mysql_CRUD_python.git
-    ```
+```
 
 2. **Set up your MySQL database**
 
