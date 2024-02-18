@@ -33,7 +33,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 ```sh
 pip install mysql-connector-python
-    ```
+```
 
 4. **Configure your database connection**
 
